@@ -23,7 +23,7 @@ Army = 29
 ------------------  
 P4 P5 P7 P8  
 1  0  x  x  = return nearest walking Ped  
-1  x  0  x  = return nearest walking Ped  
+1  1  0  x  = return nearest alive ped not in scenario 
 x  1  1  x  = return Ped you are using  
 0  0  x  x  = no effect  
 0  x  0  x  = no effect  
